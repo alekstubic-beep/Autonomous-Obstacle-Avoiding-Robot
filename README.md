@@ -49,12 +49,13 @@ PWM: Output Compare modules OC1 and OC2 for left/right motor speed
 
 **Project Structure**
 
-/
+**/
 ├── src/
-│   └── main.c
+│   └── main.c          # Main application source
 ├── hardware/
-│   └── schematic.png
-└── README.md
+│   └── schematic.png   # Block-level wiring diagram
+└── README.md**
+
 
 **References**
 
