@@ -1,7 +1,6 @@
-build/
-dist/
-.generated_files/
-debug.log
-nbproject/private/
-Makefile
-nbproject/Makefile-*.mk
+_Previews/
+History/
+Project Logs*/
+Project Outputs*/
+debug
+*.PrjPcbStructure

@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Primjenjena_II.PrjPcb|ReportField=ProjectFullPath~C:\Users\Korisnik\Desktop\faks\Primjenjena II projekat\primjenjena_II\Primjenjena_v1.4\Primjenjena_II\Primjenjena_II.PrjPcb|ReportField=Title~Bill of Materials For Project [Primjenjena_II.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~48|ReportField=ReportTime~14:13:48|ReportField=ReportDate~26.6.2026.|ReportField=ReportDateTime~26.6.2026. 14:13:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~26.6.2026.|ReportField=CurrentTime~14:13:41|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Korisnik\Desktop\faks\Primjenjena II projekat\primjenjena_II\Primjenjena_v1.4\Primjenjena_II\Primjenjena_II.SchDoc|ReportField=DocumentName~Primjenjena_II.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Grupa 5|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~31.3.2026.|ReportField=Organization~|ReportField=ProjectName~Primjenjena_II.PrjPcb|ReportField=Revision~v1.1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Schematic|ReportField=DataSourceFileName~Primjenjena_II.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Korisnik\Desktop\faks\Primjenjena II projekat\primjenjena_II\Primjenjena_v1.4\Primjenjena_II\Primjenjena_II.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap|Capacitor|C1, C2, C3, C4, C5, C6, C7, C9, C11, C13, C14|RAD-0.1|Cap|11
+2|Cap Pol1|Polarized Capacitor (Radial)|C8, C10, C12|Elektrolitski kondenzator|Cap Pol1|3
+3|Diode 1N4007|1 Amp General Purpose Rectifier|D1|DO-41|Diode 1N4007|1
+4|LED1|Typical RED GaAs LED|D2, D11|Diode|LED1|2
+5|Diode|Default Diode|D3, D4, D5, D6, D7, D8, D9, D10|DO-41|Diode|8
+6|DSPIC30F4013-30I/P|Digital Signal Processors, DSP, DSC General Purpose : Microchip Technology Inc. DSPIC30F4013-30I/P|J1|DIP254P1524X482-40|DSPIC30F4013-30I/P|1
+7|Bluetooth na UART1|Header, 4-Pin|P1|HDR1X4|Header 4|1
+8|PIC Programator|Header, 6-Pin|P2|HDR1X6|Header 6|1
+9|UART1|Header, 4-Pin|P3|HDR1X4|Header 4|1
+10|UART2|Header, 4-Pin|P4|HDR1X4|Header 4|1
+11|Desni HC-SR04 senzor|Header, 4-Pin|P5|HDR1X4|Header 4|1
+12|Lijevi HC-SR04 senzor|Header, 4-Pin|P6|HDR1X4|Header 4|1
+13|IR senzor daljine GP2Y|Header, 3-Pin|P7|HDR1X3|Header 3|1
+14|Header 2|Header, 2-Pin|P8|HDR1X2|Header 2|1
+15|M1|Header, 2-Pin|P9|HDR1X2|Header 2|1
+16|M2|Header, 2-Pin|P10|HDR1X2|Header 2|1
+17|Header 4|Header, 4-Pin|P11, P12|HDR1X4|Header 4|2
+18|Res1|Resistor|R1, R2, R3, R4, R5|AXIAL-0.3|Res1|5
+19|SW-PB|Switch|S1|SPST-2|SW-PB|1
+20|SW-SPST|Single-Pole, Single-Throw Switch|S2|SPST-2|SW-SPST|1
+21|L298N|Dual Full Bridge Motor Driver 15-Pin(15+Tab) MULTIWATT V Tube|U1|TO127P2020X500X2100-15|L298N|1
+22|LM7805S/NOPB|1.5-A, 30-V, linear voltage regulator|U2|TO-220-AB|LM7805S/NOPB|1
+23|HC-49/U-S16000000ABJB|16 MHz Â±30ppm Crystal 18pF 50 Ohms HC-49/US|Y1|XTAL_HC49P488W43L1150T466H350|HC-49/U-S16000000ABJB|1
