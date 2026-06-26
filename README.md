@@ -58,11 +58,3 @@ PWM: Output Compare modules OC1 and OC2 for left/right motor speed
 │   └── schematic.png   # Block-level wiring diagram
 
 └── README.md
-
-
-**References**
-
-V. Rajs, Praktikum za vežbe iz primenjene elektronike, FTN, 2024
-dsPIC30F4013 Datasheet
-HC-SR04 Ultrasonic Sensor Datasheet
-UART Module Reference Manual
